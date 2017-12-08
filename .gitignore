@@ -30,3 +30,4 @@ packages/*
 !packages/repositories.config
 !.nuget/*
 FakesAssemblies/*
+/.vs
